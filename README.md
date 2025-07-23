@@ -1,2 +1,2 @@
 # TCN
-Trabalhos da matéria de Tecnologias de Comando Numérico
+Trabalhos da matéria de Tecnologia de Comando Numérico
